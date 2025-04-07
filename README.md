@@ -1,2 +1,2 @@
-# weri
+# Weri Ekananta | BioLink
 Weri Project
